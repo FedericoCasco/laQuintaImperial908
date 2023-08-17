@@ -1222,7 +1222,7 @@ Contact Style
 */
 
 .contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/contact-bg.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1825,4 +1825,13 @@ body {
   .contact-page .section-heading {
     margin-right: 100px;
   }
+}
+
+iframe{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 600px;
+  height: 600px;
+  /*Sólo para que se vea, ya que la dirección al parecer está mal*/
+  border: 5px solid green;
 }

@@ -1703,6 +1703,16 @@ body {
 }
 
 @media (max-width: 767px) {
+  .videosmuestra {
+    margin-left: 10px;
+    margin-right: 10px;
+  
+  }
+  
+  
+  
+  
+  
   .header-area .main-nav .logo h1 {
     line-height: 80px !important;
   }
@@ -1827,6 +1837,24 @@ body {
   }
 }
 
+
+
+
+
+.videosmuestra {
+  margin-left: 300px;
+  margin-right: 300px;
+
+}
+@media only screen and (max-width: 575px){
+  .videosmuestra {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
+
+
 iframe{
   margin-top: 40px;
   margin-bottom: 40px;
@@ -1853,3 +1881,4 @@ iframe{
 .whatsapp-icon {
   margin-top:13px;
 }
+

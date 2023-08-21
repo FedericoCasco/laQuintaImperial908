@@ -1888,3 +1888,10 @@ iframe{
   width: 60px;
   height: 60px;
 }
+
+.h4opciones {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  border-radius: 50px;
+}

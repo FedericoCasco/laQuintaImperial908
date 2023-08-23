@@ -1703,14 +1703,7 @@ body {
 }
 
 @media (max-width: 767px) {
-  .videosmuestra {
-    margin-left: 10px;
-    margin-right: 10px;
-  
-  }
-  
-  
-  
+
   
   
   .header-area .main-nav .logo h1 {
@@ -1839,20 +1832,41 @@ body {
 }
 
 .videosmuestra {
-  margin-left: 300px;
-  margin-right: 300px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  padding: 0px;
+  /* margin-left: 200px;
+  margin-right: 200px; 
+   */
+}
+
+.videos1{
+  padding: 0px;
+  -webkit-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  -moz-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
 
 }
+
+
+
 @media (max-width: 575px){
   .videosmuestra {
+    padding: 0px;
+    margin-top: 40px;
     margin-left: 40px;
-    margin-right: 40px;
-  
+    margin-right: 40px;   
   }
-
-
-
 }
+
+.videos1{
+  padding: 0px;
+  -webkit-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  -moz-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+}
+
 
 iframe{
   margin-top: 40px;

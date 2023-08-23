@@ -1938,3 +1938,18 @@ iframe{
   margin-top: 10px;
   border-radius: 50px;
 }
+
+.indicamapa {
+  display: flex;
+  justify-content: center
+}
+.textomapa {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.flecha1 {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 0px;
+}

@@ -1836,6 +1836,8 @@ body {
   justify-content: center;
   margin-top: 40px;
   padding: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   /* margin-left: 200px;
   margin-right: 200px; 
    */
@@ -1843,9 +1845,9 @@ body {
 
 .videos1{
   padding: 0px;
-  -webkit-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  /* -webkit-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
   -moz-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
-  box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22); */
 
 }
 
@@ -1861,11 +1863,13 @@ body {
 }
 
 .videos1{
+  
   padding: 0px;
-  -webkit-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  /* -webkit-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
   -moz-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
-  box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22); */
 }
+
 
 
 iframe{
@@ -1875,6 +1879,9 @@ iframe{
   height: 100%;
   
   border: 5px solid green;
+  -webkit-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  -moz-box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
+  box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22);
 }
 
 

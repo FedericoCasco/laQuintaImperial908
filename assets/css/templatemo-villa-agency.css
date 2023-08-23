@@ -1850,7 +1850,23 @@ body {
   box-shadow: 0px 1px 22px 15px rgba(0,0,0,0.22); */
 
 }
+.whatsapp {
+  position:fixed;
+  width:100px;
+  height:100px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:50px;
+  z-index:100;
+}
 
+.whatsapp-icon {
+  margin-top:25px;
+}
 
 
 @media (max-width: 575px){
@@ -1889,20 +1905,20 @@ iframe{
 
 .whatsapp {
   position:fixed;
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   bottom:40px;
   right:40px;
   background-color:#25d366;
   color:#FFF;
   border-radius:50px;
   text-align:center;
-  font-size:30px;
+  font-size:50px;
   z-index:100;
 }
 
 .whatsapp-icon {
-  margin-top:35px;
+  margin-top:15px;
 }
 
 .logoMercadopago {

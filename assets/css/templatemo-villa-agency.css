@@ -1828,7 +1828,19 @@ body {
   .contact-page .section-heading {
     margin-right: 100px;
   }
- 
+
+  .videosmuestra {
+    padding: 0px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;  
+     
+  }
+  
+  
+  
+
+
 }
 
 .videosmuestra {
@@ -1867,6 +1879,7 @@ body {
 .whatsapp-icon {
   margin-top:25px;
 }
+
 
 
 @media (max-width: 575px){

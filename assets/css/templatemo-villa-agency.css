@@ -756,6 +756,14 @@ Banner Style
   background-image: url(../photo/imagen3.jpg);
 }
 
+.main-banner .item-4 {
+  background-image: url(../images/5555.jpeg);
+}
+
+.main-banner .item-5 {
+  background-image: url(../images/1111.jpeg);
+}
+
 .main-banner .item span.category {
   background-color: #fff;
   color: #1e1e1e;
@@ -2030,4 +2038,10 @@ iframe{
 	100% {
 		opacity: 0;
 	}
+}
+
+.calendario {
+  padding-top: 100px;
+  color: orangered
+  
 }
